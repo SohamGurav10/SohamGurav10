@@ -5,6 +5,13 @@
 
 ---
 
+## 📫 How to reach me
+
+[![Email](https://img.shields.io/badge/Email-black?style=for-the-badge\&logo=gmail)](mailto:sohamgurav808@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/soham-gurav-a60734303/)
+
+---
+
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
@@ -39,11 +46,8 @@
 
 ---
 
-## 📫 How to reach me
+## GitHub Stats
 
-[![Email](https://img.shields.io/badge/Email-black?style=for-the-badge\&logo=gmail)](mailto:sohamgurav808@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/soham-gurav-a60734303/)
-
----
+![Profile Views](https://komarev.com/ghpvc/?username=sohamgurav&label=PROFILE+VIEWS&color=007ec6&style=flat)
 
 ⭐️ *Feel free to check out my repositories and drop a star if you find something useful!*
