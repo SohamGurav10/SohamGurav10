@@ -5,14 +5,14 @@
 
 ---
 
-## 📫 How to reach me
+## How to reach me
 
 [![Email](https://img.shields.io/badge/Email-black?style=for-the-badge\&logo=gmail)](mailto:sohamgurav808@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/soham-gurav-a60734303/)
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### 💻 Languages
 
